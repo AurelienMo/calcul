@@ -1,6 +1,7 @@
 # Exercice calculette
 
-Dans cet exercice, le squelette html / css est fourni.   
+Dans cet exercice, le squelette html / css est fourni.  
+Seul le javascript est à écrire dans le fichier "js/main.js"   
 Cet exercice est découpé en deux parties :
 
 ## 1ère partie
